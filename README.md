@@ -19,7 +19,7 @@ Here is a schematic that indicates how I will wire the breadboard to my Raspberr
 -Do not bend the GPIO pins.
 -Ground yourself electrically before proceeding.
 
-**Step 1** 
+**Step 1** <br/>
 Firstly I connected my LED light. You can see the configuration of the wires from the picture below.
 ![Pic1](/images/pic1.jpg)
 I placed a resistor that lines up with the cathode of the LED light, preventing the LED light from drawing a dangerous amount of power from the Raspberry Pi. I placed the male-to-female jumper cable to align with the anode of the LED light, I have that cable connected to GPIO 17 on the Raspberry Pi.
