@@ -1,3 +1,3 @@
 # Reaction-Game
 
-![Pic1](/images/pic1.jpg =250x250)
+![Pic1](/images/pic1.jpg | width ="100")
