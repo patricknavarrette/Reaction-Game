@@ -36,4 +36,4 @@ The second push button is connected to GPIO 3 on the raspberry Pi. ALl of the co
 ![Pic4](/images/pic4.jpg)
 
 **Step 4** 
-Now we must write the code for the reaction game. The code that I used can be found at [code](maincode.md)
+Now we must write the code for the reaction game. The code that I used can be found at [code](maincode)
