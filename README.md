@@ -34,7 +34,7 @@ The first push button is connected to GPIO 2 on the raspberry Pi.
 **Step 3** <br/><br/>
 Then I connected my second push button on the breadboard, you can see the wiring in the picture below.
 ![Pic3](/images/pic3.jpg)
-The second push button is connected to GPIO 3 on the raspberry Pi. ALl of the components are now wired in the Raspberry Pi, seen from a different angle below.
+The second push button is connected to GPIO 3 on the raspberry Pi. All of the components are now wired in the Raspberry Pi, seen from a different angle below.
 ![Pic4](/images/pic4.jpg)<br/>
 <br/>
 
