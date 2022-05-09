@@ -14,10 +14,10 @@ Here is a schematic that indicates how I will wire the breadboard to my Raspberr
 ![Pic5](/images/pic5.PNG)
 
 **WARNING!** You could permanently damage your Pi, so read carefully:
--Turn off your Pi when connecting cables to the GPIO ports.
--Use a resistor, the LED will consumer as much voltage as it can. This may damage your Pi.
--Do not bend the GPIO pins.
--Ground yourself electrically before proceeding.
+- Turn off your Pi when connecting cables to the GPIO ports.
+- Use a resistor, the LED will consumer as much voltage as it can. This may damage your Pi.
+- Do not bend the GPIO pins.
+- Ground yourself electrically before proceeding.
 
 **Step 1** <br/>
 Firstly I connected my LED light. You can see the configuration of the wires from the picture below.
