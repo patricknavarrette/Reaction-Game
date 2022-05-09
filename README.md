@@ -46,4 +46,4 @@ Now that we have the code written and the wiring done, we can execute the progra
 
 **Conclusion**<br/>
 Your reaction game should now be complete if you follow all these steps. You can see in the video that included below just how the game should look when it is completely assembled and functioning properly. <br/>
-[![Youtube](https://www.youtube.com/watch?v=IVRWWWZRkvQ "Reaction Game")
+[Reaction Game](https://www.youtube.com/watch?v=IVRWWWZRkvQ)
