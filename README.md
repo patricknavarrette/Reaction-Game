@@ -33,9 +33,17 @@ The first push button is connected to GPIO 2 on the raspberry Pi.
 Then I connected my second push button on the breadboard, you can see the wiring in the picture below.
 ![Pic3](/images/pic3.jpg)
 The second push button is connected to GPIO 3 on the raspberry Pi. ALl of the components are now wired in the Raspberry Pi, seen from a different angle below.
-![Pic4](/images/pic4.jpg)
+![Pic4](/images/pic4.jpg)<br/>
 
 **Step 4** <br/>
 Now we must write the code for the reaction game. The code that I used can be found at [code](maincode). To input this code, you can open a terminal on your linux machine and use the nano text editor. To create a file using nano you can type in the terminal "nano filenamehere.py" .py indicates it is a python file. For instance, for this reaction game I named the file reaction, so to create the file the command would be "nano reaction.py". After that command is entered, the nano text editor will launch and you will be editing the file under whatever name you decide. Then, you can copy and paste the [code](maincode) and exit and save the document. It will now be executable. You can see the file I created as well as what the nano text editor looks like in the screenshots below. <br/>
 ![Pic6](/images/pic6.PNG)
-![Pic7](/images/pic7.PNG)
+![Pic7](/images/pic7.PNG)<br/>
+
+**Step 5** <br/>
+Now that we have the code written and the wiring done, we can execute the program and play the game. To execute a python file from the linux terminal, you just type "python filenamhere.py" which will execute the program. You can see the syntax I used to in the screenshot below.
+![Pic8](/images/pic8.PNG)<br/>
+
+**Conclusion**<br/>
+Your reaction game should now be complete if you follow all these steps. You can see in the video that included below just how the game should look when it is completely assembled and functioning properly.
+[![Youtube](http://img.youtube.com/vi/https://www.youtube.com/watch?v=IVRWWWZRkvQ/0.jpg)](http://https://www.youtube.com/watch?v=IVRWWWZRkvQ "Reaction Game")
