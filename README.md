@@ -45,5 +45,5 @@ Now that we have the code written and the wiring done, we can execute the progra
 ![Pic8](/images/pic8.PNG)<br/>
 
 **Conclusion**<br/>
-Your reaction game should now be complete if you follow all these steps. You can see in the video that included below just how the game should look when it is completely assembled and functioning properly. <br/>
+Your reaction game should now be complete if you follow all these steps. You can see in the video that included below how the game should look when it is completely assembled and functioning properly. <br/>
 [Reaction Game](https://www.youtube.com/watch?v=IVRWWWZRkvQ)
