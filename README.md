@@ -11,7 +11,7 @@ To create this game you will need:
 - Two push button switches 
 
 Here is a schematic that indicates how I will wire the breadboard to my Raspberry Pi:
-![Pic5](/images/pic5.PNG)
+![Pic5](/images/pic5.PNG) <br/>
 
 **WARNING!** You could permanently damage your Pi, so read carefully:
 - Turn off your Pi when connecting cables to the GPIO ports.
