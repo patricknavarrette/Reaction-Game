@@ -11,7 +11,7 @@ To create this game you will need:
 - Two push button switches 
 
 Here is a schematic that indicates how I will wire the breadboard to my Raspberry Pi:
-![Pic5](/images/pic5.jpg)
+![Pic5](/images/pic5.png)
 
 **WARNING!** You could permanently damage your Pi, so read carefully:
 -Turn off your Pi when connecting cables to the GPIO ports.
@@ -37,5 +37,5 @@ The second push button is connected to GPIO 3 on the raspberry Pi. ALl of the co
 
 **Step 4** <br/>
 Now we must write the code for the reaction game. The code that I used can be found at [code](maincode). To input this code, you can open a terminal on your linux machine and use the nano text editor. To create a file using nano you can type in the terminal "nano filenamehere.py" .py indicates it is a python file. For instance, for this reaction game I named the file reaction, so to create the file the command would be "nano reaction.py". After that command is entered, the nano text editor will launch and you will be editing the file under whatever name you decide. Then, you can copy and paste the [code](maincode) and exit and save the document. It will now be executable. You can see the file I created as well as what the nano text editor looks like in the screenshots below.
-![Pic6](/images/pic6.jpg)
-![Pic7](/images/pic7.jpg)
+![Pic6](/images/pic6.png)
+![Pic7](/images/pic7.png)
