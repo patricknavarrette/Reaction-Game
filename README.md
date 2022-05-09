@@ -1,3 +1,3 @@
 # Reaction-Game
 
-![Pic1](pic1.jpg)
+![Pic1](/images/pic1.jpg)
